@@ -1,0 +1,9 @@
+31ea39f Sharjeel Akram
+pub.dev rejects files containing NUL bytes.
+
+04c3b0d Sharjeel Akram
+
+565bcf8 Sharjeel Akram
+Offline-first HTTP client for Dart and Flutter: retries with backoff,
+cached GETs when offline, and an ordered offline queue for mutations.
+

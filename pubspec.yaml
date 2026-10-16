@@ -1,0 +1,23 @@
+name: offline_fetch
+description: >-
+  Offline-first HTTP client for Dart and Flutter. Retries with backoff, serves
+  cached GETs when offline, and queues POST/PUT/PATCH/DELETE until back online.
+version: 0.1.0
+repository: https://github.com/SHARJEELAKRAM110/offline_fetch
+issue_tracker: https://github.com/SHARJEELAKRAM110/offline_fetch/issues
+topics:
+  - http
+  - offline
+  - network
+  - cache
+  - retry
+
+environment:
+  sdk: ^3.3.0
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0
